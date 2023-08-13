@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/brian uceda hirata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian uceda hirata" height="30" width="40" /></a>
 <a href="https://instagram.com/kiridepapel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiridepapel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/monalek oficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monalek oficial" height="30" width="40" /></a>
+ <a href="https://discordapp.com/users/442580870314852354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="monalek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
