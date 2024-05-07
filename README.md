@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning *many spring boot dependencies*
 
-- 👨‍💻 All of my projects are available at [https://monalek.xyz](https://monalek.xyz)
+- 👨‍💻 All of my projects are available at [https://kiridepapel.vercel.app](https://kiridepapel.vercel.app)
 
 - 💬 Ask me about *spring boot and angular*
 
-- 📫 How to reach me **monalek0622@hotmail.com**
+- 📫 How to reach me **brian.uceda@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brian uceda hirata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian uceda hirata" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kiridepapel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian uceda hirata" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/kiridepapel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiridepapel" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/monalek oficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monalek oficial" height="30" width="40" /></a>
  <a href="https://discordapp.com/users/442580870314852354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="monalek" height="30" width="40" /></a>
