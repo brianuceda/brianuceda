@@ -6,7 +6,9 @@
 
 Soy un apasionado estudiante de Ingeniería de Sistemas de Información, enfocado en el desarrollo backend y la arquitectura web.
 <br>
-Me motiva crear soluciones tecnológicas innovadoras y eficientes, utilizando diversas herramientas actuales. Aspiro a liderar proyectos que impulsen la transformación digital, con un enfoque en el desarrollo de aplicaciones escalables y robustas. Mis intereses abarcan desde la integración de datos en plataformas de e-commerce hasta la optimización de arquitecturas de aplicaciones, siempre buscando combinar tecnología de vanguardia con impacto real en los procesos empresariales.
+Me motiva crear soluciones tecnológicas innovadoras y eficientes, utilizando diversas herramientas actuales.
+<br>
+Aspiro a liderar proyectos que impulsen la transformación digital, con un enfoque en el desarrollo de aplicaciones escalables y robustas. Mis intereses abarcan desde la integración de datos en plataformas de e-commerce hasta la optimización de arquitecturas de aplicaciones y sistemas, siempre buscando combinar tecnología de vanguardia con impacto real en los procesos empresariales.
 
 ## Programación
 <div style="display: inline_block;">
