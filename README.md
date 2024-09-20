@@ -10,6 +10,8 @@ Me motiva crear soluciones tecnológicas innovadoras y eficientes, utilizando di
 <br>
 Aspiro a liderar proyectos que impulsen la transformación digital, con un enfoque en el desarrollo de aplicaciones escalables y robustas. Mis intereses abarcan desde la integración de datos en plataformas de e-commerce hasta la optimización de arquitecturas de aplicaciones y sistemas, siempre buscando combinar tecnología de vanguardia con impacto real en los procesos empresariales.
 
+<br>
+
 ## Programación
 <div style="display: inline_block;">
     <img align="center" alt="Java" height="35" width="40" src="https://svgl.app/library/java.svg">
