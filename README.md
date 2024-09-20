@@ -14,47 +14,87 @@ Aspiro a liderar proyectos que impulsen la transformación digital, con un enfoq
 
 ## Programación
 <div style="display: inline_block;">
-  <a href="https://java.com" target="_blank">
+  <a href="https://brianuceda.vercel.app/portafolio?tech=java">
     <img align="center" alt="Java" height="35" width="40" src="https://svgl.app/library/java.svg">
   </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=python">
     <img align="center" alt="Python" height="35" width="40" src="https://svgl.app/library/pythosn.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=csharp">
     <img align="center" alt="C#" height="35" width="40" src="https://svgl.app/library/csharp.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=javascript">
     <img align="center" alt="JavaScript" height="35" width="40" src="https://svgl.app/library/javascript.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=typescript">
     <img align="center" alt="TypeScript" height="35" width="40" src="https://svgl.app/library/typescript.svg">
-    <br><br>
-    <div style="margin-top:15px">
-        <img align="center" alt="HTML5" height="35" width="40" src="https://svgl.app/library/html5.svg">
-        <img align="center" alt="CSS" height="35" width="40" src="https://svgl.app/library/css.svg">
-        <img align="center" alt="SCSS" height="35" width="40" src="https://www.svgrepo.com/svg/374061/sass.png">
-    </div>
+  </a>
+  <br><br>
+  <div style="margin-top:15px">
+    <a href="https://brianuceda.vercel.app/portafolio?tech=html5">
+      <img align="center" alt="HTML5" height="35" width="40" src="https://svgl.app/library/html5.svg">
+    </a>
+    <a href="https://brianuceda.vercel.app/portafolio?tech=css">
+      <img align="center" alt="CSS" height="35" width="40" src="https://svgl.app/library/css.svg">
+    </a>
+    <a href="https://brianuceda.vercel.app/portafolio?tech=sass">
+      <img align="center" alt="SCSS" height="35" width="40" src="https://www.svgrepo.com/svg/374061/sass.png">
+    </a>
+  </div>
 </div>
 <br>
 
 ## Frameworks
 <div style="display: inline_block; margin-bottom:30px">
+  <a href="https://brianuceda.vercel.app/portafolio?tech=springboot">
     <img align="center" alt="Spring Boot" height="35" width="40" src="https://svgl.app/library/spring.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=angular">
     <img align="center" alt="Angular" height="35" width="40" src="https://svgl.app/library/angular.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=django">
     <img align="center" alt="Django" height="35" width="40" src="https://svgl.app/library/django.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=tailwindcss">
     <img align="center" alt="Tailwind CSS" height="35" width="40" src="https://svgl.app/library/tailwindcss.svg">
+  </a>
 </div>
 <br>
 
 ## Tecnologías
 <div style="display: inline_block; margin-bottom:30px">
+  <a href="https://brianuceda.vercel.app/portafolio?tech=git">
     <img align="center" alt="Git" height="35" width="40" src="https://svgl.app/library/git.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=docker">
     <img align="center" alt="Docker" height="35" width="40" src="https://svgl.app/library/docker.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=postgresql">
     <img align="center" alt="PostgreSQL" height="35" width="40" src="https://svgl.app/library/postgresql.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=mysql">
     <img align="center" alt="MySQL" height="35" width="40" src="https://svgl.app/library/mysql.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=sql-server">
     <img align="center" alt="SQL Server" height="35" width="40" src="https://svgl.app/library/sql-server.svg">
+  </a>
 </div>
 <br>
 
 ## Herramientas
 <div style="display: inline_block">
+  <a href="https://brianuceda.vercel.app/portafolio?tech=figma">
     <img align="center" alt="Figma" height="35" width="40" src="https://svgl.app/library/figma.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=postman">
     <img align="center" alt="Postman" height="35" width="40" src="https://svgl.app/library/postman.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=firebase">
     <img align="center" alt="Postman" height="35" width="40" src="https://svgl.app/library/firebase.svg">
+  </a>
+  <a href="https://brianuceda.vercel.app/portafolio?tech=selenium">
     <img align="center" alt="Selenium" height="35" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
+  </a>
 </div>
 <br>
 
