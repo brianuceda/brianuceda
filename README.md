@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
-Soy un apasionado estudiante de Ingeniería de Sistemas de Información, enfocado en el desarrollo backend y la arquitectura web.
+Soy un apasionado estudiante de Ingeniería de Sistemas de Información, enfocado en el desarrollo backend, la arquitectura web y la inteligencia artificial.
 <br>
 Me motiva crear soluciones tecnológicas innovadoras y eficientes, utilizando diversas herramientas actuales.
 <br>
