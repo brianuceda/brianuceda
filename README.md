@@ -14,7 +14,9 @@ Aspiro a liderar proyectos que impulsen la transformación digital, con un enfoq
 
 ## Programación
 <div style="display: inline_block;">
+  <a href="https://java.com" target="_blank">
     <img align="center" alt="Java" height="35" width="40" src="https://svgl.app/library/java.svg">
+  </a>
     <img align="center" alt="Python" height="35" width="40" src="https://svgl.app/library/pythosn.svg">
     <img align="center" alt="C#" height="35" width="40" src="https://svgl.app/library/csharp.svg">
     <img align="center" alt="JavaScript" height="35" width="40" src="https://svgl.app/library/javascript.svg">
