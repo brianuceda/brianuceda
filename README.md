@@ -1,13 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiridepapel&label=Visitas%20de%20Perfil&color=000000&style=flat" alt="kiridepapel" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiridepapel&label=Visitas%20de%20Perfil&color=49F798&style=flat" alt="kiridepapel" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=Hola!+Mi+nombre+es+Brian+Uceda+C%3A;Me+enfoco+en+el+Desarrollo+Backend!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F798&width=435&lines=Hola!+Mi+nombre+es+Brian+Uceda+C%3A;Me+enfoco+en+el+Desarrollo+Backend!)](https://git.io/typing-svg)
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
+
+Soy un apasionado estudiante de Ingeniería de Sistemas de Información, enfocado en el desarrollo backend y la arquitectura web.
+<br>
+Me motiva crear soluciones tecnológicas innovadoras y eficientes, utilizando diversas herramientas actuales. Aspiro a liderar proyectos que impulsen la transformación digital, con un enfoque en el desarrollo de aplicaciones escalables y robustas. Mis intereses abarcan desde la integración de datos en plataformas de e-commerce hasta la optimización de arquitecturas de aplicaciones, siempre buscando combinar tecnología de vanguardia con impacto real en los procesos empresariales.
 
 ## Programación
 <div style="display: inline_block;">
     <img align="center" alt="Java" height="35" width="40" src="https://svgl.app/library/java.svg">
-    <!-- <img align="center" alt="Python" height="35" width="40" src="https://svgl.app/library/pythosn.svg"> -->
+    <img align="center" alt="Python" height="35" width="40" src="https://svgl.app/library/pythosn.svg">
     <img align="center" alt="C#" height="35" width="40" src="https://svgl.app/library/csharp.svg">
     <img align="center" alt="JavaScript" height="35" width="40" src="https://svgl.app/library/javascript.svg">
     <img align="center" alt="TypeScript" height="35" width="40" src="https://svgl.app/library/typescript.svg">
@@ -15,7 +19,7 @@
     <div style="margin-top:15px">
         <img align="center" alt="HTML5" height="35" width="40" src="https://svgl.app/library/html5.svg">
         <img align="center" alt="CSS" height="35" width="40" src="https://svgl.app/library/css.svg">
-        <!-- <img align="center" alt="SCSS" height="35" width="40" src="https://www.svgrepo.com/svg/374061/sass.png"> -->
+        <img align="center" alt="SCSS" height="35" width="40" src="https://www.svgrepo.com/svg/374061/sass.png">
     </div>
 </div>
 <br>
